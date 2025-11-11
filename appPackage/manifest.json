@@ -5,7 +5,7 @@
     "id": "${{TEAMS_APP_ID}}",
     "packageName": "com.microsoft.teams.extension",
     "developer": {
-        "name": "Katonic AI",
+        "name": "Takween AI",
         "websiteUrl": "https://takween.ai/",
         "privacyUrl": "https://takween.ai/privacy-policy.html",
         "termsOfUseUrl": "https://takween.ai/terms-and-conditions.html"

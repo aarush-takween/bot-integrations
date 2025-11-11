@@ -1,4 +1,4 @@
-# Katonic Teams Chat Bot
+# Teams Chat Bot
 
 ## Prerequisites
 

@@ -6,21 +6,21 @@
     "packageName": "com.microsoft.teams.extension",
     "developer": {
         "name": "Katonic AI",
-        "websiteUrl": "https://katonic.ai/",
-        "privacyUrl": "https://katonic.ai/privacy-policy.html",
-        "termsOfUseUrl": "https://katonic.ai/terms-and-conditions.html"
+        "websiteUrl": "https://takween.ai/",
+        "privacyUrl": "https://takween.ai/privacy-policy.html",
+        "termsOfUseUrl": "https://takween.ai/terms-and-conditions.html"
     },
     "icons": {
-        "color": "katonic-color.png",
-        "outline": "katonic-outline.png"
+        "color": "color.png",
+        "outline": "outline.png"
     },
     "name": {
-        "short": "Katonic AI Bot",
-        "full": "Katonic GenAI ChatBot"
+        "short": "AI Bot",
+        "full": "GenAI ChatBot"
     },
     "description": {
-        "short": "Katonic AI: MLOps platform for enterprise AI",
-        "full": "Katonic AI is an MLOps platform that helps businesses realize the value of enterprise AI faster. The platform combines the creative scientific process of data scientists with the professional software engineering process to build and deploy machine learning models into production safely, quickly, and sustainably."
+        "short": "MLOps platform for enterprise AI",
+        "full": "Takween AI is an MLOps platform that helps businesses realize the value of enterprise AI faster. The platform combines the creative scientific process of data scientists with the professional software engineering process to build and deploy machine learning models into production safely, quickly, and sustainably."
     },
     "accentColor": "#5C31FF",
     "bots": [

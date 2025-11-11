@@ -14,8 +14,8 @@ Modify the file `appPackage/manifest.json` with the required changes for the app
 
 Clone this Repository
 ```
-git clone https://github.com/katonic-dev/katonic-chatbot.git
-cd katonic-chatbot/
+git clone repo_url
+cd bot-integrations/
 ```
 
 Install NodeJS Packages
